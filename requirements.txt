@@ -1,0 +1,6 @@
+tcolorpy
+adafruit_circuitpython_neopixel
+adafruit_circuitpython_pixelbuf
+pyyaml
+fastapi
+loguru
